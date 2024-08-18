@@ -1,2 +1,8 @@
 # Athena
-react-notes 
+## react-notes 
+
+
+
+### Tech Stack
+- Next.js
+- Redis
